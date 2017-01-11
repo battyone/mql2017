@@ -92,8 +92,9 @@ int OnInit()
    SetIndexBuffer(8,LO2,INDICATOR_CALCULATIONS);
    SetIndexBuffer(9,UPPER,INDICATOR_CALCULATIONS);
    SetIndexBuffer(10,LOWER,INDICATOR_CALCULATIONS);
-//   PlotIndexSetInteger(0,PLOT_ARROW,241);
-//   PlotIndexSetInteger(1,PLOT_ARROW,242);
+   PlotIndexSetInteger(0,PLOT_ARROW,158);
+   PlotIndexSetInteger(1,PLOT_ARROW,158);
+ 
 
    return(0);
   }
