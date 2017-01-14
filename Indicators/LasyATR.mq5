@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
-//|                                                 SimpleAutoTL.mq5 |
-//| Simple Auto TL v2.2                       Copyright 2017, fxborg |
+//|                                                      LasyATR.mq5 |
+//| LasyATR v1.0                              Copyright 2017, fxborg |
 //|                                   http://fxborg-labo.hateblo.jp/ |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2017, fxborg"
